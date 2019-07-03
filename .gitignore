@@ -1,4 +1,1 @@
-*.txt
-log/*.log
-*.gz
-*.zip
+tempfile.txt
